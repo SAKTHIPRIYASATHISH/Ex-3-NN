@@ -113,12 +113,15 @@ predict(w1,w2,test)
 ~~~
 
 <H3>Output:</H3>
-
-
-
-
-
 ![Screenshot 2024-04-04 211627](https://github.com/SAKTHIPRIYASATHISH/Ex-3-NN/assets/119104282/63f2bd74-56a8-44e9-9916-71869aa625b4)
+
+
+
+
+
+![Screenshot 2024-04-04 211954](https://github.com/SAKTHIPRIYASATHISH/Ex-3-NN/assets/119104282/ff71bbd3-3616-4411-b7e4-ee9620388bfb)
+
+
 
 
 
