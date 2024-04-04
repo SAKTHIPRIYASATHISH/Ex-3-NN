@@ -117,6 +117,8 @@ predict(w1,w2,test)
 
 
 
+![Screenshot 2024-04-04 211627]
+
 
 
 
